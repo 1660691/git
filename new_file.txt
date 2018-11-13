@@ -1,1 +1,2 @@
 this file is example of uploading a file on Git server.
+a new line was added
